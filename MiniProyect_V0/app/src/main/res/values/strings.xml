@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">MiniProyect_V0</string>
+    <string name="descripcion">Descripción</string>
+    <string name="aboutUs">About us</string>
+    <string name="paragraph1">We are Aletheia, an application that was made to help our users to find amazing places to visit and take pictures.Our main objective is provide our users an space to share all that places.</string>
+    <string name="howWeStarted">How we started</string>
+    <string name="paragraph2">We started doing this project with some ideas, the most important of them is that we want we want to provide a space where the user can enjoy the best places in the city, and in turn provide a reality that can be shared with other users of the app, and is also complemented by the value we want to convey that it is to show what is hidden, to show what is true, that place that should be visible to the eyes of the whole world.</string>
+    <string name="whatAletheia">What is Aletheia?</string>
+    <string name="paragraph3">Well the idea comes out from the necessity of not having any App that will give all the functionalities all together. 
+    On one side we have Instagram that allows us as users to post content to our profile, Google shows us how to arrive at different places and Snapchat shows us a map with different locations.
+    However, none of them have it all in one, so Aletheia does that, it shows you the best locations to take pictures and also how to arrive there and see in the map if the other users are in the same location.
+    </string>
+    <string name="valorsAndBeliefs">Our valors and beliefs</string>
+    <string name="paragraph4">We do this project because we want to provide a space where the user can enjoy the best places in the city,
+     and at the same time provide a reality that can be shared with other users of the app,
+     in addition to being complemented by the value that we want to transmit that it is to show what is hidden, to show what is true,
+     that place that should be visible to the eyes of the whole world.</string>
+    <string name="forUsers">For our users</string>
+    <string name="paragraph5">Our customers will enjoy from different functionalities as taking photos on beautiful places plus uploading the location of the site. With this is possible that another users can use the same place to make turism or taking photos.
+    Aletheia wants to be original and supportive, with that, we want our customer to be themselves in our platform an share their photos, places and hobbies.
+    </string>
+    <string name="ourTeam">Our Team</string>
+    <!--ISABEL-->
+    <string name="isabel">UX/UI Designer</string>
+    <string name="googlePlusIsabel">isabel@aletheia.com</string>
+    <string name="instagramIsabel">isabel.aletheia</string>
+    <string name="phoneIsabel">+34 609 657 221</string>
+    <!--CARLA-->
+    <string name="carla">Front-End Developer</string>
+    <string name="googlePlusCarla">carla@aletheia.com</string>
+    <string name="instagramCarla">carla.aletheia</string>
+    <string name="phoneCarla">+34 698 567 321</string>
+    <!--ARJHAY-->
+    <string name="arjhay">Back-End Developer</string>
+    <string name="googlePlusArjhay">arjhay@aletheia.com</string>
+    <string name="instagramArjhay">arjhay.aletheia</string>
+    <string name="phoneArjhay">+34 698 321 081</string>
+    <string name="about_us">About Us</string>
+    <string name="salir">Salir</string>
+    <string name="button_exit">Button</string>
+
+</resources>

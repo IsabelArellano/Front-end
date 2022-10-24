@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <ImageView
+        android:id="@+id/ivIntegrante"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        tools:background="@color/black"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"/>
+
+    <TextView
+        android:id="@+id/tvIntegranteProfesion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="Profesion"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/ivIntegrante"/>
+
+    <TextView
+        android:id="@+id/tvIntegranteNombre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="Nombre"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="20dp"
+        app:layout_constraintStart_toEndOf="@+id/ivIntegrante"/>
+
+    <TextView
+        android:id="@+id/tvIntegranteCorreo1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="Correo1"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="40dp"
+        app:layout_constraintStart_toEndOf="@+id/ivIntegrante"/>
+
+    <TextView
+        android:id="@+id/tvIntegranteCorreo2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="Correo2"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="60dp"
+        app:layout_constraintStart_toEndOf="@+id/ivIntegrante"/>
+
+    <TextView
+        android:id="@+id/tvIntegranteTelefono"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="Telefono"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="80dp"
+        app:layout_constraintStart_toEndOf="@+id/ivIntegrante"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
