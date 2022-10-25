@@ -1,12 +1,12 @@
-#Mon Oct 24 15:11:10 CEST 2022
+#Mon Oct 24 19:32:56 CEST 2022
 path.3=8/classes.dex
 path.2=1/classes.dex
 path.1=0/classes.dex
 path.0=classes.dex
-base.3=/Users/alu2018053/Desktop/KOTLIN/MiniProyect_V0/app/build/intermediates/dex/debug/mergeProjectDexDebug/8/classes.dex
-base.2=/Users/alu2018053/Desktop/KOTLIN/MiniProyect_V0/app/build/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
-base.1=/Users/alu2018053/Desktop/KOTLIN/MiniProyect_V0/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
-base.0=/Users/alu2018053/Desktop/KOTLIN/MiniProyect_V0/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.3=/Users/alu2018053/Desktop/KOTLIN/Front-end/MiniProyect_V0/app/build/intermediates/dex/debug/mergeProjectDexDebug/8/classes.dex
+base.2=/Users/alu2018053/Desktop/KOTLIN/Front-end/MiniProyect_V0/app/build/intermediates/dex/debug/mergeProjectDexDebug/1/classes.dex
+base.1=/Users/alu2018053/Desktop/KOTLIN/Front-end/MiniProyect_V0/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.0=/Users/alu2018053/Desktop/KOTLIN/Front-end/MiniProyect_V0/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
 renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
