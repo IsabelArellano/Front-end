@@ -1,5 +1,8 @@
 package com.example.miniproyect_v0
 
+// Aqui creamos los datos de cada integrante, por ello hacemos un companion object lo que hace es vincular con la clase data de integrantes
+// Y creamos un listOf llamado integranteList vinculado con Integrantes y sus atributos.
+
 class IntegrantesProvider {
     companion object{
         val integranteList = listOf<Integrantes>(

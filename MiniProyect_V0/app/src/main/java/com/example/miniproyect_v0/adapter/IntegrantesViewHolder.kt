@@ -8,7 +8,11 @@ import com.bumptech.glide.Glide
 import com.example.miniproyect_v0.Integrantes
 import com.example.miniproyect_v0.R
 
+
+
 class IntegrantesViewHolder(view: View): RecyclerView.ViewHolder(view) {
+
+    // Creamos estos valores y cada valor tiene asignado cada id de los componentes del layout item_integrante.
 
     val foto = view.findViewById<ImageView>(R.id.ivIntegrante)
     val profesion = view.findViewById<TextView>(R.id.tvIntegranteProfesion)
@@ -17,6 +21,7 @@ class IntegrantesViewHolder(view: View): RecyclerView.ViewHolder(view) {
     val correo2 = view.findViewById<TextView>(R.id.tvIntegranteCorreo2)
     val telefono = view.findViewById<TextView>(R.id.tvIntegranteTelefono)
 
+// Aqui hacemos una vinculacion con los atributos de la data class integrantes con los valores que hemos creado anteriormente.
 
     fun render(intModel: Integrantes){
         profesion.text = intModel.profesion

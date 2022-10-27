@@ -1,10 +1,12 @@
 package com.example.miniproyect_v0
 
 // Importar esto para que funcione las funciones del boton.
+
 import android.content.Intent
+import android.widget.Button
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.widget.Button
+
 
 class Main_Principal : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

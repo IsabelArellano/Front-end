@@ -9,9 +9,10 @@
         android:id="@+id/ivIntegrante"
         android:layout_width="150dp"
         android:layout_height="150dp"
-        tools:background="@color/black"
+        tools:background="@color/teal_200"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintStart_toStartOf="parent"/>
+        app:layout_constraintStart_toStartOf="parent"
+        android:contentDescription="imagen" />
 
     <TextView
         android:id="@+id/tvIntegranteProfesion"
